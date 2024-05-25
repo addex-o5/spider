@@ -13,14 +13,14 @@ global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
 global.prefa = ['','!','.',',','🐤','🗿']
-global.Contributor = '254104301695'
-global.NamaOwner = '𝖐𝖎𝖓𝖌 𝖘𝖆𝖒' //gausah diganti 
+global.Contributor = '2348052944641'
+global.NamaOwner = 'emperor' //gausah diganti 
 global.sessionName = 'spider'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
 global.author = '𝖐𝖎𝖓𝖌 𝖘𝖆𝖒' //ganti aj klo mau
 global.packname = '🕷️ 𝕾𝖕𝖎𝖉𝖊𝖗🕷️ 🕸️𝖂𝖊𝖇🕸️' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
+global.yt = 'https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z' //gausah diganti
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 2GB Cpu: 70% - 5.000/bln
  │⬡ 3GB Cpu: 90% - 7.000/bln
