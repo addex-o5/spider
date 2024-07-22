@@ -13,8 +13,8 @@ global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
 global.prefa = ['','!','.',',','🐤','🗿']
-global.Contributor = '2348022159244'
-global.NamaOwner = 'mofe🕊' //gausah diganti 
+global.Contributor = '27635696219'
+global.NamaOwner = 'joker' //gausah diganti 
 global.sessionName = 'spider'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
@@ -30,7 +30,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 7GB Cpu: 170% - 15.000/bln
  │⬡ 8GB Cpu: 200% - 17.000/bln`
 
-global.country = `254`
+global.country = `27`
 
 global.system = {
     gmail: `samuelcircute@gmail.com`,
