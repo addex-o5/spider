@@ -209,7 +209,7 @@ const textpro = require('./lib/textpro.js')
 const photooxy = require('./lib/photooxy.js')
 
 // Presence 
-let rn = ['composing','recording','paused']
+let rn = ['unavailable']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
         ryozingod.sendPresenceUpdate(jd, m.chat)
@@ -283,7 +283,7 @@ year: "numeric"
 })
 
 //Status
-if (!ryozingod.public) {
+if (!ryozingod.private) {
 if (!m.key.fromMe) return
 }
 
